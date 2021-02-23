@@ -1,8 +1,13 @@
-# Python bulk QR code generator
+"""QRgen.py
+Bulk QR code generator
+uses a text file, containing one URL per line, to generate a batch of QR code images"""
 
-# uses a text file, containing one URL per line, specified as a command-line parameter
-# outputs a QR code image in the current directory, or in a location specified in the
-# second command line parameter
+__author__ = "Justin Johnson"
+__email__ = "authalic@gmail.com"
+__date__ = "23 Feb, 2021"
+__version__ = "1.0"
+__status__ = "Production"
+
 
 import argparse
 from os import makedirs
