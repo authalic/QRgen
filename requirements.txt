@@ -1,0 +1,4 @@
+colorama==0.4.4
+Pillow==8.1.0
+qrcode==6.1
+six==1.15.0

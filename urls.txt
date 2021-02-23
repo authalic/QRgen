@@ -1,0 +1,10 @@
+https://hadoop.apache.org/
+https://developers.arcgis.com/python/guide/overview-of-the-arcgis-api-for-python/
+http://pygments.org/
+https://wsvincent.com/
+https://docs.python.org/3.7/library/sqlite3.html
+http://pro.arcgis.com/en/pro-app/arcpy/get-started/using-conda-with-arcgis-pro.htm
+https://esri.github.io/arcgis-python-api/apidoc/html/arcgis.gis.toc.html#contentmanager
+https://shapely.readthedocs.io/en/latest/manual.html
+https://scitools.org.uk/cartopy/docs/latest/index.html
+https://www.reddit.com/r/Python/
